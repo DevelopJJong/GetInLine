@@ -3,7 +3,7 @@
 
 ## 개발 환경
 
-* Intellij IDEA Ultimate 2022.1.
+* Intellij IDEA Ultimate 2022.1.4
 * Java 17
 * Spring Boot 3.0.4
 
